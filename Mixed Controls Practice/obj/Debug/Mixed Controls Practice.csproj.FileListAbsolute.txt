@@ -1,0 +1,33 @@
+C:\Mixed Controls Practice\bin\Debug\MyFirstWinFormsProject.exe.config
+C:\Mixed Controls Practice\bin\Debug\MyFirstWinFormsProject.exe
+C:\Mixed Controls Practice\bin\Debug\MyFirstWinFormsProject.pdb
+C:\Mixed Controls Practice\obj\Debug\Mixed Controls Practice.csproj.AssemblyReference.cache
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.exe.config
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.CheckedListBox.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.ComboBox.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.DateTimePicker.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Error_Provider.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Form1.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Form2.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.frmChkRadioGroup.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Frm_Main.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.LinkedLabel.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.List_View.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.MaskedTextBox.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.frmMessageBox.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.MonthCalender.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.frmMoreAboutTextBox.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.NotifyIcon.resources
+C:\Mixed Controls Practice\obj\Debug\Tree_View_And_ImageList_Project__Extra_Project_.ProgBar.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Properties.Resources.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Timer.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Tree_View_And_Image_List.resources
+C:\Mixed Controls Practice\obj\Debug\Mixed Controls Practice.csproj.GenerateResource.cache
+C:\Mixed Controls Practice\obj\Debug\Mixed Controls Practice.csproj.CoreCompileInputs.cache
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.exe
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.pdb
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.TrackBar.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.NumericUpDown.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Tab_Control.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Group_Box_VS_Panel.resources
+C:\Mixed Controls Practice\obj\Debug\MyFirstWinFormsProject.Dialogs.resources

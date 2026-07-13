@@ -1,0 +1,11 @@
+C:\Simple Calculator (Extra Project On C#)\bin\Debug\Simple Calculator (Extra Project On C#).exe.config
+C:\Simple Calculator (Extra Project On C#)\bin\Debug\Simple Calculator (Extra Project On C#).exe
+C:\Simple Calculator (Extra Project On C#)\bin\Debug\Simple Calculator (Extra Project On C#).pdb
+C:\Simple Calculator (Extra Project On C#)\obj\Debug\Simple Calculator (Extra Project On C#).csproj.AssemblyReference.cache
+C:\Simple Calculator (Extra Project On C#)\obj\Debug\Simple_Calculator__Extra_Project_On_C__.Form1.resources
+C:\Simple Calculator (Extra Project On C#)\obj\Debug\Simple_Calculator__Extra_Project_On_C__.Properties.Resources.resources
+C:\Simple Calculator (Extra Project On C#)\obj\Debug\Simple Calculator (Extra Project On C#).csproj.GenerateResource.cache
+C:\Simple Calculator (Extra Project On C#)\obj\Debug\Simple Calculator (Extra Project On C#).csproj.CoreCompileInputs.cache
+C:\Simple Calculator (Extra Project On C#)\obj\Debug\Simple Calculator (Extra Project On C#).exe
+C:\Simple Calculator (Extra Project On C#)\obj\Debug\Simple Calculator (Extra Project On C#).pdb
+C:\Simple Calculator (Extra Project On C#)\obj\Debug\Simple Calculator (Extra Project On C#).exe.config

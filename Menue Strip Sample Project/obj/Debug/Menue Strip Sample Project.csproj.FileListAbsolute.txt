@@ -1,0 +1,12 @@
+C:\Menue Strip Sample Project\bin\Debug\Menue Strip Sample Project.exe.config
+C:\Menue Strip Sample Project\bin\Debug\Menue Strip Sample Project.exe
+C:\Menue Strip Sample Project\bin\Debug\Menue Strip Sample Project.pdb
+C:\Menue Strip Sample Project\obj\Debug\Menue Strip Sample Project.csproj.AssemblyReference.cache
+C:\Menue Strip Sample Project\obj\Debug\Menue_Strip_Sample_Project.Form1.resources
+C:\Menue Strip Sample Project\obj\Debug\Menue_Strip_Sample_Project.Properties.Resources.resources
+C:\Menue Strip Sample Project\obj\Debug\Menue Strip Sample Project.csproj.GenerateResource.cache
+C:\Menue Strip Sample Project\obj\Debug\Menue Strip Sample Project.csproj.CoreCompileInputs.cache
+C:\Menue Strip Sample Project\obj\Debug\Menue Strip Sample Project.exe
+C:\Menue Strip Sample Project\obj\Debug\Menue Strip Sample Project.pdb
+C:\Menue Strip Sample Project\obj\Debug\Menue Strip Sample Project.exe.config
+C:\Menue Strip Sample Project\obj\Debug\Menue_Strip_Sample_Project.Form2.resources

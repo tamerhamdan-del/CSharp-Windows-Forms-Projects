@@ -1,0 +1,11 @@
+C:\Picture Box Exercise\bin\Debug\Picture Box Exercise.exe.config
+C:\Picture Box Exercise\bin\Debug\Picture Box Exercise.exe
+C:\Picture Box Exercise\bin\Debug\Picture Box Exercise.pdb
+C:\Picture Box Exercise\obj\Debug\Picture Box Exercise.csproj.AssemblyReference.cache
+C:\Picture Box Exercise\obj\Debug\Picture_Box_Exercise.Form1.resources
+C:\Picture Box Exercise\obj\Debug\Picture_Box_Exercise.Properties.Resources.resources
+C:\Picture Box Exercise\obj\Debug\Picture Box Exercise.csproj.GenerateResource.cache
+C:\Picture Box Exercise\obj\Debug\Picture Box Exercise.csproj.CoreCompileInputs.cache
+C:\Picture Box Exercise\obj\Debug\Picture Box Exercise.exe
+C:\Picture Box Exercise\obj\Debug\Picture Box Exercise.pdb
+C:\Picture Box Exercise\obj\Debug\Picture Box Exercise.exe.config

@@ -1,0 +1,11 @@
+C:\Track Bar Simple Project\bin\Debug\Track Bar Simple Project.exe.config
+C:\Track Bar Simple Project\bin\Debug\Track Bar Simple Project.exe
+C:\Track Bar Simple Project\bin\Debug\Track Bar Simple Project.pdb
+C:\Track Bar Simple Project\obj\Debug\Track Bar Simple Project.csproj.AssemblyReference.cache
+C:\Track Bar Simple Project\obj\Debug\Track_Bar_Simple_Project.Form1.resources
+C:\Track Bar Simple Project\obj\Debug\Track_Bar_Simple_Project.Properties.Resources.resources
+C:\Track Bar Simple Project\obj\Debug\Track Bar Simple Project.csproj.GenerateResource.cache
+C:\Track Bar Simple Project\obj\Debug\Track Bar Simple Project.csproj.CoreCompileInputs.cache
+C:\Track Bar Simple Project\obj\Debug\Track Bar Simple Project.exe
+C:\Track Bar Simple Project\obj\Debug\Track Bar Simple Project.pdb
+C:\Track Bar Simple Project\obj\Debug\Track Bar Simple Project.exe.config

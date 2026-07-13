@@ -1,0 +1,12 @@
+C:\Timer & Promodoro Project\bin\Debug\Timer & Promodoro Project.exe.config
+C:\Timer & Promodoro Project\bin\Debug\Timer & Promodoro Project.exe
+C:\Timer & Promodoro Project\bin\Debug\Timer & Promodoro Project.pdb
+C:\Timer & Promodoro Project\obj\Debug\Timer & Promodoro Project.csproj.AssemblyReference.cache
+C:\Timer & Promodoro Project\obj\Debug\Timer___Promodoro_Project.Form1.resources
+C:\Timer & Promodoro Project\obj\Debug\Timer___Promodoro_Project.Properties.Resources.resources
+C:\Timer & Promodoro Project\obj\Debug\Timer & Promodoro Project.csproj.GenerateResource.cache
+C:\Timer & Promodoro Project\obj\Debug\Timer & Promodoro Project.csproj.CoreCompileInputs.cache
+C:\Timer & Promodoro Project\obj\Debug\Timer & Promodoro Project.exe
+C:\Timer & Promodoro Project\obj\Debug\Timer & Promodoro Project.pdb
+C:\Timer & Promodoro Project\obj\Debug\Timer & Promodoro Project.exe.config
+C:\Timer & Promodoro Project\obj\Debug\Timer___Promodoro_Project.Promodoro.resources

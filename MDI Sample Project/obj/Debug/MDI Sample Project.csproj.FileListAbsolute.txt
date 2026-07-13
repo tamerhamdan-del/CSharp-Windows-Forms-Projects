@@ -1,0 +1,11 @@
+C:\MDI Sample Project\bin\Debug\MDI Sample Project.exe.config
+C:\MDI Sample Project\bin\Debug\MDI Sample Project.exe
+C:\MDI Sample Project\bin\Debug\MDI Sample Project.pdb
+C:\MDI Sample Project\obj\Debug\MDI Sample Project.csproj.AssemblyReference.cache
+C:\MDI Sample Project\obj\Debug\MDI_Sample_Project.Form1.resources
+C:\MDI Sample Project\obj\Debug\MDI_Sample_Project.Properties.Resources.resources
+C:\MDI Sample Project\obj\Debug\MDI Sample Project.csproj.GenerateResource.cache
+C:\MDI Sample Project\obj\Debug\MDI Sample Project.csproj.CoreCompileInputs.cache
+C:\MDI Sample Project\obj\Debug\MDI Sample Project.exe
+C:\MDI Sample Project\obj\Debug\MDI Sample Project.pdb
+C:\MDI Sample Project\obj\Debug\MDI Sample Project.exe.config
