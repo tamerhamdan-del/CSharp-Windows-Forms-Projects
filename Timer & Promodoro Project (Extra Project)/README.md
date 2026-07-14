@@ -18,8 +18,7 @@ A simple C# Windows Forms application that implements a basic **Pomodoro Timer**
 - Visual Studio
 
 ## 📷 Preview
-
-![Project Screenshot](Screenshot%202026-07-14%20110850.png)
+![Project Screenshot](Screenshot%202026-07-14%20110159.png)
 
 ## ⚙️ How It Works
 
