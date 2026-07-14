@@ -19,8 +19,7 @@ A simple C# Windows Forms application that demonstrates how to draw basic shapes
 
 ## 📷 Preview
 
-![Project Screenshot](Screenshot 2026-07-14 102456.png)
-
+![Project Screenshot](Screenshot%202026-07-14%20102456.png)
 
 ## ⚙️ How It Works
 
