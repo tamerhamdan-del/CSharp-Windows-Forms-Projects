@@ -43,7 +43,7 @@ A C# Windows Forms application that simulates a pizza ordering system. Users can
 
 ## 📷 Preview
 
-![Project Screenshot](Screenshot%202026-07-14%20110215.png)
+![Project Screenshot](Screenshot%202026-07-14%20105317.png)
 
 ## ⚙️ How It Works
 
