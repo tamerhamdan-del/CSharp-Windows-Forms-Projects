@@ -23,8 +23,7 @@ A C# Windows Forms calculator application that performs basic arithmetic operati
 
 ## 📷 Preview
 
-![Project Screenshot](Screenshot%202026-07-14%20111530.png)
-
+![Project Screenshot](Screenshot%202026-07-14%20105759.png)
 ## ⚙️ How It Works
 
 1. Enter the first number.
