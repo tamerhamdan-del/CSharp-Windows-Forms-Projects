@@ -33,16 +33,8 @@ This project was built to practice event-driven programming, Windows Forms contr
 
 ## Game Preview
 
-> *(Add screenshots or a gameplay video/GIF here.)*
+![Project Screenshot](Screenshot%202026-07-14%20111445.png)
 
-Example:
-
-```
-/Images/gameplay.gif
-/Images/screenshot1.png
-```
-
----
 
 ## Project Structure
 
